@@ -31,11 +31,9 @@ Example of data filtering using THSD_code in Example for a set of 12626 prokaryo
 
 ## Citing  
 
-```@inproceedings{ankan2015pgmpy,
-  title={pgmpy: Probabilistic graphical models using python},
-  author={Ankan, Ankur and Panda, Abinash},
-  booktitle={Proceedings of the 14th Python in Science Conference (SCIPY 2015)},
-  year={2015},
-  organization={Citeseer}
-}
+```
+  title={Bayes: Dynamic Bayesian Networks models using python},
+  author={Wang},
+  year={2022},
+  organization={BJTU}
 ```
