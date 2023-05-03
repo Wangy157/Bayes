@@ -1,7 +1,9 @@
 # Bayes
 Bayes is a dynamic Bayesian network model for analysing interspecies relationships of microorganisms using python.<br>  Functions for constructing dynamic Bayesian network models using Bayes: [https://github.com/Wangy157/Bayes/tree/main/Bayes]( https://github.com/Wangy157/Bayes/tree/main/Bayes)<br>  Examples on using pgmpy: [https://github.com/Wangy157/Bayes/tree/main/Example]( https://github.com/Wangy157/Bayes/tree/main/Example)<br>  Data used in this model：[https://github.com/Wangy157/Bayes/tree/main/Data]( https://github.com/Wangy157/Bayes/tree/main/Data)<br>  Validation of the Bayes model：[https://github.com/Wangy157/Bayes/tree/main/Validation]( https://github.com/Wangy157/Bayes/tree/main/Validation)
 
-## Dependencies  pgmpy has the following non-optional dependencies:<br>  
+## Dependencies  
+
+Bayes has the following non-optional dependencies:<br>  
 
 python 3.6 or higher<br>  network<br>  scipy<br>  numpy<br>  pytorch<br>  pgmpy<br>  sklearn<br>  pandas<br>  matplotlib<br>  
 
